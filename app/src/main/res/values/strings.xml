@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackgroudnWork With WorkManager</string>
+    <string name="blurring_image">Bluring Image\n\n</string>
+    <string name="error_applying_blur">Error Applying Blur</string>
+</resources>
